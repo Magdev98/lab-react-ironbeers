@@ -1,5 +1,6 @@
-/* .App {
-} */
+.App {
+  overflow: hidden;
+}
 
 .App-logo {
   height: 40vmin;
@@ -61,4 +62,18 @@
   text-decoration: none;
   color: black;
   font-size: 2rem;
+}
+
+header {
+  background-color: rgb(101, 39, 3);
+  color: white;
+  font-weight: 500;
+  margin-top: 0;
+  padding: 0.25rem;
+  max-width: 100%;
+  text-align: center;
+}
+
+.navbar-li {
+  list-style-type: none;
 }
