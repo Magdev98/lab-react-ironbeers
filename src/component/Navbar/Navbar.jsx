@@ -7,7 +7,7 @@ const Navbar = () => {
       <nav>
         <ul>
           <li className="navbar-li">
-            <NavLink>Home is a safe place for alcoholics</NavLink>
+            <NavLink to="/">Home is a safe place for alcoholics</NavLink>
           </li>
         </ul>
       </nav>
